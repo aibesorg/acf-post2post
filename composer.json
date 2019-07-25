@@ -1,6 +1,6 @@
 
 {
-	"name": "hube2/acf-post2post",
+	"name": "aibesorg/acf-post2post",
 	"type": "wordpress-plugin",
 	"license": "MIT",
 	"description": "Creates two way (bidirectional) relationships in Advanced Custom Fields",
@@ -23,6 +23,6 @@
 	"prefer-stable": true,
 	"require": {
 		"composer/installers": "^1.0",
-		"php": ">=5.4.0"
+		"php": ">=7.0"
 	}
 }
